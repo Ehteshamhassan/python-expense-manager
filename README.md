@@ -14,3 +14,8 @@ Simple command-line interface (CLI)
 Python 3
 SQLite (database)
 Matplotlib (data visualization)
+
+>>Author<<
+Ehtesham Hassan
+ehteshamhassan435@gmail.com
+https://github.com/Ehteshamhassan
